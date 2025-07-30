@@ -99,24 +99,24 @@ The main goal of this dashboard is to:
 ## 📊 Dashboard Overview
 
 ### 💵 **Key KPIs**
-- **Sales**: `$14.11M` with a positive change of `+4.80% vs Previous Year`.
-- **Profit**: `$1.30M`, slightly declined `-0.46% vs PV`.
-- **Order Quantity**: `158K`, showing strong growth of `+13.06%`.
+- **Sales**: $14.11M with a positive change of +4.80% vs Previous Year.
+- **Profit**: $1.30M, slightly declined -0.46% vs PV.
+- **Order Quantity**: 158K, showing strong growth of +13.06%.
 
 Each KPI includes a trend line with monthly progression.
 
 
 ### 🌍 **Market Share by Sales**
 - **Donut Chart** showing % share of YTD sales by region:
-  - LATAM: `45.86%`
-  - Europe: `43.37%`
+  - LATAM: 45.86%
+  - Europe: 43.37%
   - Others include Pacific Asia, Africa, USCA.
 
 
 ### 📦 **Category-wise YTD vs PYTD Sales**
 - **Horizontal Bar Chart** comparing categories:
   - Shows sales in red (decline), green (growth), or grey (no previous data).
-  - Top performers: *Camping & Hiking* (`+12.55%`), *Water Sports* (`+21.10%`).
+  - Top performers: *Camping & Hiking* (+12.55%), *Water Sports* (+21.10%).
   - Underperformers: *Fishing*, *Cleats*, *Men’s Footwear*, etc.
 
 
