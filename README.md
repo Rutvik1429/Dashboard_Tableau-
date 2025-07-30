@@ -5,7 +5,7 @@ This my tableau dashboard repo...here we can see many difference type dashboard 
 
 This Tableau dashboard provides a comprehensive analysis of workforce data to help HR teams make informed decisions regarding employee demographics, compensation, and overall trends. The dashboard includes key metrics and insights that highlight workforce composition, salary distribution, education levels, and staff growth over time.
 
-![HR Dashboard](HR%20Dashboard.png)
+![HR Dashboard](https://github.com/Rutvik1429/Dashboard_Tableau-/blob/main/HR%20Dashboard.png)
 
 
 ## 🎯 Objective
