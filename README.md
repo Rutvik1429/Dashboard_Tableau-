@@ -1,6 +1,7 @@
 # Dashboard_Tableau-
 This my tableau dashboard repo...here we can see many difference type dashboard i created and i used few type of chart and also used many KPIs..
 
+# Dashboard 1
 # 🧑‍💼 HR Analysis Dashboard
 
 This Tableau dashboard provides a comprehensive analysis of workforce data to help HR teams make informed decisions regarding employee demographics, compensation, and overall trends. The dashboard includes key metrics and insights that highlight workforce composition, salary distribution, education levels, and staff growth over time.
