@@ -149,3 +149,73 @@ These filters dynamically update charts and KPIs.
 ---
 ---
 
+# Electric Vehicles Data Analysis Dashboard
+
+## 📷 Dashboard Preview
+![Electric Vehicles Dashboard](Electric%20Vehicles%20Analysis%20Dashboard.png)
+
+## 📌 Objective
+The purpose of this dashboard is to analyze the adoption and distribution of electric vehicles (EVs) across the United States.  
+It provides a comprehensive view of EV market trends, including:
+- Total number of electric vehicles
+- Market share of BEV (Battery Electric Vehicles) vs. PHEV (Plug-in Hybrid Electric Vehicles)
+- Yearly adoption trends
+- State-level distribution
+- Top vehicle makes and models
+- CAFV (Clean Alternative Fuel Vehicle) eligibility insights
+
+By integrating multiple KPIs, filters, and visualizations, the dashboard enables stakeholders to track EV growth, identify market leaders, and explore adoption patterns by geography and model type.
+
+
+## 📊 Key Insights
+1. **Overall Adoption**
+   - Total EVs: **150,413**
+   - BEVs dominate with **77.62%** share, while PHEVs hold **22.38%**.
+
+2. **Yearly Trend**
+   - Rapid growth after 2017, peaking in **2023** with **37.1K** vehicles.
+   - Average yearly sales: **~10.7K** units.
+
+3. **Geographical Distribution**
+   - California leads by a significant margin with **150,082** vehicles.
+   - Other states show minimal penetration compared to CA.
+
+4. **Top Vehicle Makes**
+   - **Tesla** is the clear leader, accounting for **55.6%** of total EVs.
+   - Nissan, Chevrolet, and Ford follow far behind.
+
+5. **CAFV Eligibility**
+   - **41.81%** of vehicles are CAFV eligible, **46.34%** unknown status, and **11.85%** not eligible.
+
+6. **Popular Models**
+   - Top models: **Model Y**, **Model 3**, and **Leaf**.
+   - Tesla dominates 4 out of the top 6 spots.
+
+
+## ✅ Conclusion
+The U.S. electric vehicle market is heavily concentrated in California and dominated by Tesla's BEV models.  
+The sharp growth after 2017 and the overwhelming preference for BEVs over PHEVs highlight a strong shift towards fully electric mobility.  
+CAFV eligibility remains a mixed area with significant unknown classification, indicating room for policy clarity and better reporting.
+
+
+## 📂 Dashboard Features
+- **KPIs:** Total Vehicles, Average Electric Range, BEV & PHEV totals.
+- **Visualizations:**
+  - Yearly adoption trend line chart
+  - State-level map distribution
+  - Top makes and models bar charts
+  - CAFV eligibility donut chart
+- **Filters:** EV type, Clean Alternative Fuel Vehicle status, Model, State.
+- **Interactive:** Users can filter and drill down for deeper analysis.
+
+
+## 🛠 Tools & Technologies
+- **Tableau Public**
+- Dataset: U.S. Electric Vehicles dataset (source dependent on original data provider)
+
+---
+---
+
+
+
+
