@@ -215,6 +215,68 @@ CAFV eligibility remains a mixed area with significant unknown classification, i
 
 ---
 ---
+# 📊 Sales Dashboard | Tableau (CY vs. PY Comparison)
+
+## 📌 Overview
+This repository contains a **Sales Dashboard built in Tableau** to analyze and compare **Current Year (2025) vs. Previous Year (2024)** performance.  
+The dashboard provides insights into **Sales, Profit, and Quantity trends**, with KPIs, sparklines, and interactive filters for deeper exploration.
+
+## 📷 Dashboard Preview
+![Sales Dashboard](./Sales%20Analysis%20(Compar%20CY%20vs.%20PY)%20Dashboard.png)
+
+## 🎯 Objective
+The main objective of this dashboard is to:
+- Compare **Current Year (CY)** performance with **Previous Year (PY)**.
+- Track **Sales, Profit, and Quantity** trends over time.
+- Highlight **highest and lowest performing months** with sparklines.
+- Provide **sub-category level analysis** for better decision-making.
+- Allow **dynamic filtering and parameter selection** for interactive exploration.
+
+
+## 📈 Key Features
+- **KPIs with Sparklines**  
+  - Total Sales, Total Profit, and Total Quantity with YoY % Change.
+  - Trendlines highlight performance movement across months.
+
+- **Sales & Profit by Subcategories**  
+  - Bar charts showing detailed comparison across product subcategories.  
+  - Highlights key drivers of revenue and profit growth/decline.
+
+- **Sales & Profit Trends Over Time**  
+  - Line charts to visualize ups and downs with above/below average markers.  
+
+- **Filters & Parameters**  
+  - Year, Category, and Region filters for slicing data.
+  - Parameters for custom user-driven comparisons.  
+
+- **Interactive Dashboard Design**  
+  - Built with modern Tableau features for smooth navigation and insights.  
+
+
+## 🔍 Insights
+Some key insights from the dashboard:
+- 📉 Sales, Profit, and Quantity in 2025 declined compared to 2024.  
+- 🟢 Certain subcategories (e.g., **Tables, Accessories**) drove strong positive performance.  
+- 🔴 Weak categories like **Chairs, Phones, Storage** contributed to overall decline.  
+- 📊 Profit margins showed volatility, with several months falling **below the average line**.  
+- 🏆 The dashboard enables users to pinpoint **best and worst performing months** at a glance.  
+
+
+## 🚀 Usage
+1. Open the Tableau workbook (`.twb` / `.twbx`) or published link.  
+2. Use slicers to filter data by **Year, Category, or Region**.  
+3. Hover over KPIs and charts for detailed tooltips.  
+4. Navigate across insights interactively using provided parameters.  
+
+
+## 🔗 References
+- Dataset: **it dummy data(created by CHAT GPT)**  
+- Visualization Tool: **Tableau**
+
+---
+---
+
+
 
 
 
